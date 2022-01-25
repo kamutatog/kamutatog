@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming with ( CSS, JS, PHP, HTML )
 - 🌱 I’m currently learning ( Python, Js )
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me contact me through my email goncalocontactos@gmaik.com
+- 📫 How to reach me contact me through my email goncalocontactos@gmail.com
 
 <!---
 kamutatog/kamutatog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
